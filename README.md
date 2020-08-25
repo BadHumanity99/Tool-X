@@ -1,0 +1,2 @@
+# sundala
+termux/
