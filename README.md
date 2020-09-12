@@ -1,2 +1,1 @@
-# sundala
-termux/
+
